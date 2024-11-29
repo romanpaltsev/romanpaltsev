@@ -24,7 +24,7 @@ Junior Backend Developer. Пишу на языке программирован�
 *   Фреймворки Django/DRF, Flask, Aiogram, Python Telegram Bot, BeautifulSoup
 *   Вспомогательные инструменты Git, Docker, RabbitMQ, Celery, VS Code
 
-### My opensource projects
+### Мои проекты
 
 *   [Flask Blog](https://github.com/romanpaltsev/flask-blog) - Самый простой блог написанный с использованием фреймворка Flask и использующий в качестве БД SQLite. Развитие планирую продолжить в будущем.
 *   [Калькулятор](https://github.com/romanpaltsev/calculator-on-python) - Написанный на Python калькулятор, для отрисовки GUI использовал Tkinter.
