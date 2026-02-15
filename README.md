@@ -1,31 +1,83 @@
-# Привет, я Роман 👋
-Junior Backend Developer. Пишу на языке программирования Python, активно его изучаю и углубляюсь в детали.
-Мне нравится Веб-разработка, поэтому мой стэк состоит из технологий, которые помогают решить эффективно задачи связанные с этим направлением.
+# Роман Палцев 👋
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romanpaltsev&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=romanpaltsev&show_icons=true&count_private=true"/></a>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=romanpaltsev&layout=compact"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanpaltsev&layout=compact"/></a>
-</p>
+Backend Developer (Python)
 
-<p align='center'>
-   <a href="mailto:roman.palcev@gmail.com">
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-   <a href="https://t.me/roman_paltsev">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+Разрабатываю серверные приложения на Python. Основной фокус — веб-приложения на Django, работа с базами данных и структурированием проектов.  
+Также интересуюсь парсингом данных с сайтов и созданием Telegram-ботов.
 
-## 🛠 Стэк технологий
-*   Язык программирования Python
-*   СУБД MySQL, PostgreSQL, SQLite
-*   Фреймворки Django/DRF, Flask, Aiogram, Python Telegram Bot, BeautifulSoup
-*   Вспомогательные инструменты Git, Docker, RabbitMQ, Celery, VS Code
+Открыт к предложениям по стажировке или позиции Junior Backend Developer.
 
-### Мои проекты
+---
 
-*   [Flask Blog](https://github.com/romanpaltsev/flask-blog) - Самый простой блог написанный с использованием фреймворка Flask и использующий в качестве БД SQLite. Развитие планирую продолжить в будущем.
-*   [Калькулятор](https://github.com/romanpaltsev/calculator-on-python) - Написанный на Python калькулятор, для отрисовки GUI использовал Tkinter.
-*   [Social Network](https://github.com/romanpaltsev/social-network) - Социальная сеть написанная с использованием фреймворка Django, пока что написана часть функционала для вывода новостей.
+## 🛠 Tech Stack
+
+### Backend
+- Python
+- Django
+- Flask
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### DevOps & Tools
+- Docker / Docker Compose
+- Git
+- Linux
+- VS Code
+
+### Data & Automation
+- Web scraping (BeautifulSoup)
+- Telegram bots (Aiogram, Python Telegram Bot)
+
+### Frontend & Misc
+- HTML / CSS (базовый уровень)
+- Чтение и внесение правок в JS и PHP код
+
+---
+
+## 📌 Проекты
+
+### 🔹 Social Network (Django)
+Социальная сеть на Django.
+
+Что реализовано:
+- Модели пользователей
+- Работа с ORM
+- Вывод новостной ленты
+- Структурирование проекта по приложениям Django
+
+Технологии: Django, SQLite / PostgreSQL  
+
+👉 https://github.com/romanpaltsev/social-network
+
+---
+
+### 🔹 Flask Blog
+Простой блог на Flask.
+
+Что реализовано:
+- CRUD для постов
+- Работа с шаблонами
+- Подключение базы данных
+- Базовая структура проекта
+
+Технологии: Flask, SQLite  
+
+👉 https://github.com/romanpaltsev/flask-blog
+
+---
+
+### 🔹 Calculator (Tkinter)
+GUI-калькулятор на Python.  
+
+👉 https://github.com/romanpaltsev/calculator-on-python
+
+---
+
+### 🔹 В процессе изучения / интересы
+- Django REST Framework
+- Асинхронные задачи (Celery, RabbitMQ)
+- Архитектура backend-приложений
+- Парсинг данных сайтов и Telegram боты
