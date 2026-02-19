@@ -1,4 +1,4 @@
-# Роман Палцев 👋
+# Роман Пальцев 👋
 
 Backend Developer (Python)
 
