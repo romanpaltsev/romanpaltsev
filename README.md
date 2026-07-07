@@ -1,69 +1,79 @@
 # Роман Пальцев
 
-**Python Backend Developer**
+**Junior Python Backend Developer**
 
-Разрабатываю backend-приложения на Python. Основной фокус — Django, Flask, работа с базами данных и понятная структура проектов.
+Разрабатываю backend-приложения на Python. Основной стек — Django, Flask, REST API и базы данных. Умею реализовывать базовую серверную логику: модели, маршруты, CRUD, шаблоны, подключение БД и разделение приложения на модули.
 
-Интересуюсь web scraping, Telegram-ботами и backend-архитектурой. Открыт к стажировке или позиции Junior Backend Developer.
+Открыт к стажировке или позиции Junior Backend Developer. Интересны задачи, связанные с web-разработкой, API, автоматизацией, парсингом данных и Telegram-ботами.
 
-## Tech Stack
+## Ключевые навыки
 
 **Backend**
 - Python
 - Django
 - Flask
+- Основы REST API
+- CRUD, маршрутизация, шаблоны
 
-**Databases**
+**Базы данных**
 - PostgreSQL
 - MySQL
 - SQLite
+- ORM, модели, связи между сущностями
 
-**DevOps & Tools**
+**Инструменты**
+- Git, GitHub
 - Docker / Docker Compose
-- Git
 - Linux
 - VS Code
 
-**Data & Automation**
-- Web scraping (BeautifulSoup)
-- Telegram bots (Aiogram, Python Telegram Bot)
+**Автоматизация**
+- Web scraping: BeautifulSoup
+- Telegram bots: Aiogram, Python Telegram Bot
 
-**Frontend & Misc**
-- HTML / CSS (базовый уровень)
-- Чтение и внесение правок в JS и PHP код
+**Дополнительно**
+- HTML / CSS на базовом уровне
+- Чтение и внесение небольших правок в JavaScript и PHP
 
 ## Проекты
 
 ### [Social Network](https://github.com/romanpaltsev/social-network)
 
-Социальная сеть на Django.
+Backend-проект социальной сети на Django.
 
 Что реализовано:
-- Модели пользователей
-- Работа с ORM
-- Вывод новостной ленты
-- Структурирование проекта по приложениям Django
+- структура проекта по приложениям Django;
+- модели пользователей и базовая работа с данными;
+- работа с Django ORM;
+- вывод новостной ленты;
+- подготовка проекта к использованию SQLite / PostgreSQL.
 
-**Технологии:** Django, SQLite / PostgreSQL
+**Стек:** Python, Django, SQLite / PostgreSQL
 
 ### [Flask Blog](https://github.com/romanpaltsev/flask-blog)
 
-Простой блог на Flask.
+Блог на Flask с базовой серверной логикой и работой с базой данных.
 
 Что реализовано:
-- CRUD для постов
-- Работа с шаблонами
-- Подключение базы данных
-- Базовая структура проекта
+- CRUD для публикаций;
+- маршруты и обработчики запросов;
+- шаблоны для отображения страниц;
+- подключение базы данных;
+- базовая структура Flask-приложения.
 
-**Технологии:** Flask, SQLite
+**Стек:** Python, Flask, SQLite
 
 ### [Calculator](https://github.com/romanpaltsev/calculator-on-python)
 
-GUI-калькулятор на Python и Tkinter.
+GUI-калькулятор на Python с использованием Tkinter.
 
-## Сейчас изучаю
+**Стек:** Python, Tkinter
+
+## Сейчас развиваюсь в направлении
+
 - Django REST Framework
-- Асинхронные задачи (Celery, RabbitMQ)
+- Проектирование REST API
+- Celery и RabbitMQ
+- Docker для локальной разработки
 - Архитектура backend-приложений
 - Web scraping и Telegram-боты
