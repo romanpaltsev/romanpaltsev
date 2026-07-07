@@ -1,45 +1,41 @@
-# Роман Пальцев 👋
+# Роман Пальцев
 
-Backend Developer (Python)
+**Python Backend Developer**
 
-Разрабатываю серверные приложения на Python. Основной фокус — веб-приложения на Django, работа с базами данных и структурированием проектов.  
-Также интересуюсь парсингом данных с сайтов и созданием Telegram-ботов.
+Разрабатываю backend-приложения на Python. Основной фокус — Django, Flask, работа с базами данных и понятная структура проектов.
 
-Открыт к предложениям по стажировке или позиции Junior Backend Developer.
+Интересуюсь web scraping, Telegram-ботами и backend-архитектурой. Открыт к стажировке или позиции Junior Backend Developer.
 
----
+## Tech Stack
 
-## 🛠 Tech Stack
-
-### Backend
+**Backend**
 - Python
 - Django
 - Flask
 
-### Databases
+**Databases**
 - PostgreSQL
 - MySQL
 - SQLite
 
-### DevOps & Tools
+**DevOps & Tools**
 - Docker / Docker Compose
 - Git
 - Linux
 - VS Code
 
-### Data & Automation
+**Data & Automation**
 - Web scraping (BeautifulSoup)
 - Telegram bots (Aiogram, Python Telegram Bot)
 
-### Frontend & Misc
+**Frontend & Misc**
 - HTML / CSS (базовый уровень)
 - Чтение и внесение правок в JS и PHP код
 
----
+## Проекты
 
-## 📌 Проекты
+### [Social Network](https://github.com/romanpaltsev/social-network)
 
-### 🔹 Social Network (Django)
 Социальная сеть на Django.
 
 Что реализовано:
@@ -48,13 +44,10 @@ Backend Developer (Python)
 - Вывод новостной ленты
 - Структурирование проекта по приложениям Django
 
-Технологии: Django, SQLite / PostgreSQL  
+**Технологии:** Django, SQLite / PostgreSQL
 
-👉 https://github.com/romanpaltsev/social-network
+### [Flask Blog](https://github.com/romanpaltsev/flask-blog)
 
----
-
-### 🔹 Flask Blog
 Простой блог на Flask.
 
 Что реализовано:
@@ -63,21 +56,14 @@ Backend Developer (Python)
 - Подключение базы данных
 - Базовая структура проекта
 
-Технологии: Flask, SQLite  
+**Технологии:** Flask, SQLite
 
-👉 https://github.com/romanpaltsev/flask-blog
+### [Calculator](https://github.com/romanpaltsev/calculator-on-python)
 
----
+GUI-калькулятор на Python и Tkinter.
 
-### 🔹 Calculator (Tkinter)
-GUI-калькулятор на Python.  
-
-👉 https://github.com/romanpaltsev/calculator-on-python
-
----
-
-### 🔹 В процессе изучения / интересы
+## Сейчас изучаю
 - Django REST Framework
 - Асинхронные задачи (Celery, RabbitMQ)
 - Архитектура backend-приложений
-- Парсинг данных сайтов и Telegram боты
+- Web scraping и Telegram-боты
