@@ -1,14 +1,21 @@
 <h1 align="center">Роман Пальцев</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2EA44F&center=true&vCenter=true&width=520&lines=Junior+Python+Backend+Developer;Django+%7C+Flask+%7C+REST+API;Open+to+Internship+%2F+Junior+Backend" alt="Typing SVG" />
+  <strong>Python Backend Developer</strong><br />
+  Django / Flask / REST API / SQL / Docker
 </p>
 
 <p align="center">
   <a href="https://github.com/romanpaltsev">
     <img src="https://img.shields.io/badge/GitHub-romanpaltsev-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Junior%20Backend-2ea44f?style=for-the-badge" alt="Open to internship or junior backend position" />
+  <a href="https://t.me/roman_paltsev">
+    <img src="https://img.shields.io/badge/Telegram-roman__paltsev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:roman.palcev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-roman.palcev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Junior%20Backend-2EA44F?style=for-the-badge" alt="Open to internship or junior backend position" />
 </p>
 
 <p align="center">
@@ -19,40 +26,47 @@
 
 ## О себе
 
-Разрабатываю backend-приложения на Python. Основной стек — Django, Flask, REST API и базы данных.
+Разрабатываю backend-приложения на Python и развиваюсь в направлении серверной веб-разработки. Основной стек: Django, Flask, REST API, SQL-базы данных и Docker.
 
-Умею реализовывать базовую серверную логику: модели, маршруты, CRUD, шаблоны, подключение БД и разделение приложения на модули. Открыт к стажировке или позиции Junior Backend Developer.
+Мне интересно строить понятную backend-логику: проектировать модели данных, описывать маршруты и API, работать с ORM, подключать базы данных, разделять приложение на модули и готовить проект к локальному запуску через Docker.
 
-## Навыки
+Открыт к стажировке или позиции Junior Python Backend Developer.
 
-| Направление | Технологии и инструменты |
+## Что умею делать
+
+- Разрабатывать backend на `Python`, `Django` и `Flask`.
+- Проектировать модели данных и работать с `ORM`.
+- Реализовывать `CRUD`, маршруты, шаблоны и базовые `REST API`.
+- Подключать `PostgreSQL`, `MySQL`, `SQLite`.
+- Настраивать локальное окружение через `Docker` и `Docker Compose`.
+- Работать с `Git`, GitHub и Linux-окружением.
+- Писать простые парсеры и Telegram-ботов на Python.
+
+## Технологии
+
+| Направление | Инструменты |
 | --- | --- |
 | Backend | `Python` `Django` `Flask` `REST API` `CRUD` |
-| Базы данных | `PostgreSQL` `MySQL` `SQLite` `ORM` |
-| Инструменты | `Git` `GitHub` `Docker` `Docker Compose` `Linux` `VS Code` |
-| Автоматизация | `BeautifulSoup` `Aiogram` `Python Telegram Bot` |
-| Frontend / Misc | `HTML` `CSS` базовые правки `JavaScript` и `PHP` |
+| Databases | `PostgreSQL` `MySQL` `SQLite` `ORM` |
+| Dev tools | `Git` `GitHub` `Docker` `Docker Compose` `Linux` `VS Code` |
+| Automation | `BeautifulSoup` `Aiogram` `Python Telegram Bot` |
+| Frontend basics | `HTML` `CSS` базовый `JavaScript` |
 
 ## Проекты
 
-| Проект | Описание | Стек |
+| Проект | Что реализовано | Стек |
 | --- | --- | --- |
-| [Social Network](https://github.com/romanpaltsev/social-network) | Социальная сеть на Django: модели, ORM, новостная лента, структура по приложениям. | Python, Django, SQLite / PostgreSQL |
-| [Flask Blog](https://github.com/romanpaltsev/flask-blog) | Блог на Flask: CRUD для публикаций, маршруты, шаблоны, подключение БД. | Python, Flask, SQLite |
-| [Calculator](https://github.com/romanpaltsev/calculator-on-python) | GUI-калькулятор на Python с использованием Tkinter. | Python, Tkinter |
+| [Social Network](https://github.com/romanpaltsev/social-network) | Django-приложение с моделями, ORM, новостной лентой и разделением проекта на приложения. | Python, Django, SQLite / PostgreSQL |
+| [Flask Blog](https://github.com/romanpaltsev/flask-blog) | Блог на Flask с CRUD для публикаций, маршрутизацией, шаблонами и подключением базы данных. | Python, Flask, SQLite |
+| [Calculator](https://github.com/romanpaltsev/calculator-on-python) | Desktop GUI-приложение: калькулятор с интерфейсом на Tkinter. | Python, Tkinter |
 
-## Сейчас изучаю
+## Сейчас развиваю
 
-- Django REST Framework
-- Проектирование REST API
-- Celery и RabbitMQ
-- Docker для локальной разработки
-- Архитектура backend-приложений
-- Web scraping и Telegram-боты
+- Django REST Framework и проектирование REST API.
+- Тестирование backend-приложений.
+- Docker Compose для локальной разработки.
+- Celery, RabbitMQ и фоновые задачи.
 
-## GitHub Activity
+## GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romanpaltsev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanpaltsev&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+Основной фокус профиля — backend-проекты на Python. В закрепленных репозиториях лучше держать собственные проекты, которые показывают работу с Django, Flask, базами данных, Docker и REST API.
